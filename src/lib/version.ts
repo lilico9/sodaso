@@ -13,7 +13,7 @@ export enum UpdateStatus {
 
 // 远程版本检查URL配置
 const VERSION_CHECK_URLS = [
-  'https://raw-githubusercontent.6677181.xyz/Stardm0/MoonTV/main/VERSION.txt',
+  'https://raw.githubusercontent.com/Stardm0/MoonTV/main/VERSION.txt',
 ];
 
 /**
